@@ -1,4 +1,4 @@
-<h3 align="center">
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/joaomarcosbelato?igshid=YmMyMTA2M2Y=) <h3 align="center">
   Olá, Sou João Marcos Belato!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
@@ -31,3 +31,5 @@
   <img align="center" alt="Nilo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Nilo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
+
+
