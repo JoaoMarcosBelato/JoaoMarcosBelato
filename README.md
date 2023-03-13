@@ -22,6 +22,8 @@
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
+## 🔨 Languages I'm stud ying:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,6 +33,8 @@
   <img align="center" alt="Nilo-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Nilo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
+
+## 🏅 My GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaomarcosbelato&theme=dark)](https://git.io/streak-stats)
  </div>
