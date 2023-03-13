@@ -32,4 +32,13 @@
   <img align="center" alt="Nilo-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=joaomarcosbelato&theme=dark)](https://git.io/streak-stats)
+ </div>
 
+ <div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomarcosbelato&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
+
+ #
+ <div align="center">
+ A winner is a dreamer who never gives up. – Nelson Mandela.
+ </div>
